@@ -1,0 +1,2 @@
+-[]Outline weekly goals.
+-[]Review project notes on Friday.
